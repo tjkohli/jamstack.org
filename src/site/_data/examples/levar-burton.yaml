@@ -1,0 +1,12 @@
+title: LeVar Burton
+description: Actor, Director, Producer, and owner of LeVar Burton Entertainment.
+link: 'https://levarburton.com/'
+thumbnailurl: /img/examples/amaissaude.jpg
+tools:
+  - Gatsby.js
+  - React
+  - Cosmic
+  - Amazon S3
+  - styled-components
+  - GitLab
+  - Cloudflare
